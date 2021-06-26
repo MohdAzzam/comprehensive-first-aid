@@ -1,0 +1,18 @@
+{
+    "home.title":"الصفحة الرئيسية",
+    "username":"أسم المستخدم",
+    "password":"كلمة المرور",
+    "email":"البريد الالكتروني",
+    "phoneNumber":"رقم الهاتف",
+    "login.form.username.message.required":"اسم المسخدم مطلوب",
+    "login.form.password.message.required":"كلمة المرور مطلوبة",
+    "home.form.submit":"تسجيل الدخول",
+    "home.login":"تسجيل الدخول",
+    "home.register":"التسجيل",
+    "user.type.paramedic":"مسعف",
+    "user.type.user":"مستخدم",
+   "home.form.userType":"نوع المستخدم",
+   "login.form.phonenumber.message.required":"رقم الهاتف مطلوب",
+   "login.form.email.message.required":"البريد الالكتروني مطلوب",
+   "home.register.submit":"تسجيل"
+}

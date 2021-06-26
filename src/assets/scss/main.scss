@@ -1,0 +1,10 @@
+@import "./helpers/mixins";
+@import "~bootstrap/scss/bootstrap";
+@import "./components/loading";
+@import "./helpers/common_used";
+@import "./components/page";
+@import "./components/Input";
+
+[dir="rtl"] #root , * {
+    direction: rtl;
+}

@@ -1,0 +1,18 @@
+{
+    "home.title":"Home",
+    "username":"username",
+    "password":"password",
+    "email":"email",
+    "phoneNumber":"Phone Number",
+    "login.form.username.message.required":"user name required",
+    "login.form.password.message.required":"password required",
+    "home.form.submit":"Login",
+    "home.login":"Login",
+    "home.register":"Register",
+    "user.type.paramedic":"Paramedic",
+    "user.type.user":"user",
+   "home.form.userType":"User Type",
+   "login.form.phonenumber.message.required":"Phone number required",
+   "login.form.email.message.required":"email required",
+   "home.register.submit":"Register"
+}
